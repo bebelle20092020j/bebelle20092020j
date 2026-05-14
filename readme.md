@@ -73,13 +73,6 @@
   • <strong>Carrinho Shopee:</strong> simulação de carrinho de compras com JavaScript.
 </p>
 
-<h3 align="left">📊 Estatísticas</h3>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bebelle20092020j&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=bebelle20092020j&layout=compact&langs_count=6&theme=dracula"/>
-</div>
-
 <br><br>
 
 <!-- SNAKE ANIMATION FUNCIONANDO -->

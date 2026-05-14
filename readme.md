@@ -1,4 +1,8 @@
-<h1 align="center">Seja Bem-Vinda Isa!!✨</h1>
+<h1 align="center">Olá, eu sou a Isabelle Macedo ✨</h1>
+
+<p align="center">
+  Estudante de tecnologia, desenvolvimento web e projetos práticos com JavaScript, Node.js e TypeScript.
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25"/>
@@ -14,16 +18,66 @@
 
 <br>
 
-<p align="left">Hello World!! 👋</p>
+<h3 align="left">👩‍💻 Sobre mim</h3>
+
+<p align="left">
+  Hello World!! 👋<br>
+  Sou estudante da área de tecnologia e estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, backend, frontend e computação em nuvem.
+</p>
+
+<p align="left">
+  Aqui no GitHub compartilho projetos criados durante meus estudos, principalmente atividades e desafios desenvolvidos em bootcamps da DIO, além de práticas com HTML, CSS, JavaScript, TypeScript e Node.js.
+</p>
+
+<h3 align="left">🚀 Áreas que estou estudando</h3>
+
+<p align="left">
+  • Desenvolvimento Web<br>
+  • Frontend<br>
+  • Backend<br>
+  • Node.js<br>
+  • TypeScript<br>
+  • JavaScript<br>
+  • Computação em Nuvem<br>
+  • Lógica de programação
+</p>
+
+<h3 align="left">🛠 Tecnologias e ferramentas</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"/>
+</div>
+
+<h3 align="left">📌 Projetos em destaque</h3>
+
+<p align="left">
+  • <strong>Champions API:</strong> API de jogadores e clubes feita com Node.js, Express e TypeScript.<br>
+  • <strong>Formula 1 API:</strong> API com dados de pilotos e equipes usando Node.js, TypeScript e Fastify.<br>
+  • <strong>Podcast API:</strong> API para listar e filtrar episódios de podcasts em vídeo.<br>
+  • <strong>Projeto Kart:</strong> jogo de terminal com lógica de turnos, personagens e eventos aleatórios.<br>
+  • <strong>Projeto QR Code:</strong> gerador de QR Codes e senhas pelo terminal.<br>
+  • <strong>Carrinho Shopee:</strong> simulação de carrinho de compras com JavaScript.
+</p>
+
+<h3 align="left">📊 Estatísticas</h3>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bebelle20092020j&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=bebelle20092020j&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <br><br>

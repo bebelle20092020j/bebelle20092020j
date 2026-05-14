@@ -64,15 +64,6 @@
 
 <h3 align="left">📌 Projetos em destaque</h3>
 
-<p align="left">
-  • <strong>Champions API:</strong> API de jogadores e clubes feita com Node.js, Express e TypeScript.<br>
-  • <strong>Formula 1 API:</strong> API com dados de pilotos e equipes usando Node.js, TypeScript e Fastify.<br>
-  • <strong>Podcast API:</strong> API para listar e filtrar episódios de podcasts em vídeo.<br>
-  • <strong>Projeto Kart:</strong> jogo de terminal com lógica de turnos, personagens e eventos aleatórios.<br>
-  • <strong>Projeto QR Code:</strong> gerador de QR Codes e senhas pelo terminal.<br>
-  • <strong>Carrinho Shopee:</strong> simulação de carrinho de compras com JavaScript.
-</p>
-
 <br><br>
 
 <!-- SNAKE ANIMATION FUNCIONANDO -->

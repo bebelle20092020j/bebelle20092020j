@@ -62,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"/>
 </div>
 
-<h3 align="left">📌 Projetos em destaque</h3>
 
 <br><br>
 

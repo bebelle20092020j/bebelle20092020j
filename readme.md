@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou a Isabelle Macedo ✨</h1>
+<h1 align="center">🌷 Olá, eu sou a Isabelle Macedo ✨</h1>
 
 <p align="center">
-  Estudante de tecnologia, desenvolvimento web e projetos práticos com JavaScript, Node.js e TypeScript.
+  Estudante de tecnologia, desenvolvimento web e criadora de projetos com JavaScript, Node.js e TypeScript.
 </p>
 
 <div align="center">
@@ -13,36 +13,36 @@
 <br>
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
+  <img height="160" src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
 </div>
 
 <br>
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+<h3 align="left">💗 Sobre mim</h3>
 
 <p align="left">
   Hello World!! 👋<br>
-  Sou estudante da área de tecnologia e estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, backend, frontend e computação em nuvem.
+  Sou estudante da área de tecnologia e estou construindo minha jornada no desenvolvimento web, explorando frontend, backend, computação em nuvem e lógica de programação.
 </p>
 
 <p align="left">
-  Aqui no GitHub compartilho projetos criados durante meus estudos, principalmente atividades e desafios desenvolvidos em bootcamps da DIO, além de práticas com HTML, CSS, JavaScript, TypeScript e Node.js.
+  Aqui no GitHub compartilho meus estudos, projetos práticos e desafios desenvolvidos em bootcamps da DIO. Cada repositório representa um passo da minha evolução como futura desenvolvedora.
 </p>
 
-<h3 align="left">🚀 Áreas que estou estudando</h3>
+<h3 align="left">🌸 Áreas que estou estudando</h3>
 
 <p align="left">
   • Desenvolvimento Web<br>
   • Frontend<br>
   • Backend<br>
-  • Node.js<br>
-  • TypeScript<br>
   • JavaScript<br>
+  • TypeScript<br>
+  • Node.js<br>
   • Computação em Nuvem<br>
   • Lógica de programação
 </p>
 
-<h3 align="left">🛠 Tecnologias e ferramentas</h3>
+<h3 align="left">🎀 Tecnologias e ferramentas</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"/>
@@ -62,6 +62,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"/>
 </div>
 
+<br>
+
+<h3 align="left">🦋 Minha evolução</h3>
+
+<p align="left">
+  Estou sempre buscando aprender mais, criar projetos melhores e transformar meus estudos em prática. Meu objetivo é crescer na área de tecnologia e desenvolver soluções criativas, funcionais e bem organizadas.
+</p>
 
 <br><br>
 

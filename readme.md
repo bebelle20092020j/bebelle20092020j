@@ -1,9 +1,3 @@
-<div align="center">
-
-# Olá, eu sou a Isabelle Macedo ✨
-
-Estudante de tecnologia, desenvolvimento web e projetos práticos com JavaScript, Node.js e TypeScript.
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=170&section=header&text=Isabelle%20Macedo&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
 ![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-8A2BE2?style=for-the-badge)

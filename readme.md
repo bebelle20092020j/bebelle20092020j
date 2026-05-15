@@ -1,79 +1,80 @@
-<h1 align="center">🌷 Olá, eu sou a Isabelle Macedo ✨</h1>
-
-<p align="center">
-  Estudante de tecnologia, desenvolvimento web e criadora de projetos com JavaScript, Node.js e TypeScript.
-</p>
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+
+# Olá, eu sou a Isabelle Macedo ✨
+
+Estudante de tecnologia, desenvolvimento web e projetos práticos com JavaScript, Node.js e TypeScript.
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=170&section=header&text=Isabelle%20Macedo&fontSize=36&fontColor=ffffff&animation=fadeIn)
+
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-8A2BE2?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-6A0DAD?style=for-the-badge)
+
+<img height="155" src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
+
 </div>
 
-<br>
+## 💜 Sobre mim
+
+Hello World!! 👋
+
+Sou estudante da área de tecnologia e estou construindo minha jornada no desenvolvimento web. Tenho interesse em frontend, backend, JavaScript, TypeScript, Node.js e computação em nuvem.
+
+Aqui no GitHub compartilho meus projetos, estudos e desafios desenvolvidos em bootcamps da DIO, sempre buscando evoluir um pouco mais a cada projeto.
+
+## 🔮 O que estou estudando
+
+- Desenvolvimento Web
+- Frontend
+- Backend
+- JavaScript
+- TypeScript
+- Node.js
+- Computação em Nuvem
+- Git e GitHub
+- Lógica de programação
+
+## 🛠 Tecnologias e ferramentas
 
 <div align="center">
-  <img height="160" src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7B2CBF?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5A189A?style=for-the-badge&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-3C096C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-9D4EDD?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-7B2CBF?style=for-the-badge&logo=canva&logoColor=white)
+
 </div>
 
-<br>
-
-<h3 align="left">💗 Sobre mim</h3>
-
-<p align="left">
-  Hello World!! 👋<br>
-  Sou estudante da área de tecnologia e estou construindo minha jornada no desenvolvimento web, explorando frontend, backend, computação em nuvem e lógica de programação.
-</p>
-
-<p align="left">
-  Aqui no GitHub compartilho meus estudos, projetos práticos e desafios desenvolvidos em bootcamps da DIO. Cada repositório representa um passo da minha evolução como futura desenvolvedora.
-</p>
-
-<h3 align="left">🌸 Áreas que estou estudando</h3>
-
-<p align="left">
-  • Desenvolvimento Web<br>
-  • Frontend<br>
-  • Backend<br>
-  • JavaScript<br>
-  • TypeScript<br>
-  • Node.js<br>
-  • Computação em Nuvem<br>
-  • Lógica de programação
-</p>
-
-<h3 align="left">🎀 Tecnologias e ferramentas</h3>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"/>
+
+![Isabelle GitHub stats](https://github-readme-stats.vercel.app/api?username=bebelle20092020j&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bebelle20092020j&layout=compact&langs_count=6&theme=midnight-purple)
+
 </div>
 
-<br>
+## 💌 Contato
 
-<h3 align="left">🦋 Minha evolução</h3>
+<div align="center">
 
-<p align="left">
-  Estou sempre buscando aprender mais, criar projetos melhores e transformar meus estudos em prática. Meu objetivo é crescer na área de tecnologia e desenvolver soluções criativas, funcionais e bem organizadas.
-</p>
+![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=8A2BE2&logoColor=white&style=for-the-badge)
+![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=9D4EDD&logoColor=white&style=for-the-badge)
+![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=6A0DAD&logoColor=white&style=for-the-badge)
 
-<br><br>
+</div>
+
+---
 
 <!-- SNAKE ANIMATION FUNCIONANDO -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bebelle20092020j/bebelle20092020j/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/bebelle20092020j/bebelle20092020j/output/snake.svg" />
 </picture>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=110&section=footer)

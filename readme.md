@@ -50,13 +50,13 @@ Aqui no GitHub compartilho meus projetos, estudos e desafios desenvolvidos em bo
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-![Isabelle GitHub stats](https://github-readme-stats.vercel.app/api?username=bebelle20092020j&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bebelle20092020j&layout=compact&langs_count=6&theme=midnight-purple)
+![GitHub followers](https://img.shields.io/github/followers/bebelle20092020j?style=for-the-badge&color=8A2BE2&labelColor=3C096C&logo=github&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/bebelle20092020j?style=for-the-badge&color=9D4EDD&labelColor=3C096C&logo=github&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=bebelle20092020j&style=for-the-badge&color=8A2BE2)
 
 </div>
 

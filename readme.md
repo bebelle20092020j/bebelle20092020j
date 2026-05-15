@@ -1,11 +1,14 @@
 <div align="center">
 
+# Olá, eu sou a Isabelle Macedo ✨
+
+Estudante de Desenvolvimento Web e Cibersegurança na Escola do Futuro de Goiás.
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=170&section=header&text=Isabelle%20Macedo&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
 ![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-8A2BE2?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-6A0DAD?style=for-the-badge)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-6A0DAD?style=for-the-badge)
+![Escola do Futuro](https://img.shields.io/badge/Escola%20do%20Futuro%20de%20Goiás-9D4EDD?style=for-the-badge)
 
 <img height="155" src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
 
@@ -15,13 +18,14 @@
 
 Hello World!! 👋
 
-Sou estudante da área de tecnologia e estou construindo minha jornada no desenvolvimento web. Tenho interesse em frontend, backend, JavaScript, TypeScript, Node.js e computação em nuvem.
+Sou estudante de **Desenvolvimento Web e Cibersegurança** na **Escola do Futuro de Goiás**. Estou construindo minha jornada na tecnologia, aprendendo sobre frontend, backend, segurança digital, JavaScript, TypeScript, Node.js e computação em nuvem.
 
-Aqui no GitHub compartilho meus projetos, estudos e desafios desenvolvidos em bootcamps da DIO, sempre buscando evoluir um pouco mais a cada projeto.
+Aqui no GitHub compartilho meus projetos, estudos e desafios desenvolvidos em bootcamps da DIO e durante minha evolução na área de tecnologia.
 
 ## 🔮 O que estou estudando
 
 - Desenvolvimento Web
+- Cibersegurança
 - Frontend
 - Backend
 - JavaScript

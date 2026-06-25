@@ -67,7 +67,7 @@ Aqui no GitHub compartilho meus projetos, estudos e desafios desenvolvidos em bo
 ![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=8A2BE2&logoColor=white&style=for-the-badge)
 ![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=9D4EDD&logoColor=white&style=for-the-badge)
 ![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=6A0DAD&logoColor=white&style=for-the-badge)
-
+![LinkedIn](https://www.linkedin.com/in/isabelle-macêdo-3a9877409?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 </div>
 
 ---

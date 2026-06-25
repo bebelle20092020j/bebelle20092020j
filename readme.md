@@ -64,9 +64,11 @@ Aqui no GitHub compartilho meus projetos, estudos e desafios desenvolvidos em bo
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=7B2CBF&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/isabelle-mac%C3%AAdo)
 ![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=8A2BE2&logoColor=white&style=for-the-badge)
 ![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=9D4EDD&logoColor=white&style=for-the-badge)
 ![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=6A0DAD&logoColor=white&style=for-the-badge)
+
 </div>
 
 ---
